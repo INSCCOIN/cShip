@@ -10,6 +10,11 @@ Framebuffer only (`/dev/fb0`). 480×320. No X, no terminal UI.
 make
 ./cDock
 ```
+Do note, if you're on an ARM CPU, you'll need to execute,
+
+```
+rm -f *.o cDock
+```
 
 Look at the **device screen**, not the SSH window.
 
