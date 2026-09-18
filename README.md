@@ -1,4 +1,4 @@
-# cDock
+# cShip
 
 Park a little wedge in a yellow bay. That’s the whole game.
 
